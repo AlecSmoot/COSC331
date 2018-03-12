@@ -8,9 +8,10 @@ The goal to this Dungeon Crawler game is slay the evil monster and reach the end
 #### How to Upload
 ---
 1. Download git-bash from the following web page https://git-scm.com/downloads, to get the latest version of Git type in the code git clone https://github.com/git/git.
-2. Once downloaded and are able to pull it up, you will need to navigate to the desktop on the Git-bash by using the command cd ~/Desktop/. Which now should look like (bash: /c/Users/alecs/Desktop/: Is a directory) in the smd.
-
-3. Once you are on the Desktop you are gonna wanna type in git clone
+2. Once downloaded and are able to pull it up, you will need to navigate to the desktop on the Git-bash by using the command cd ~/Desktop/. Which now should look like (bash: /c/Users/alecs/Desktop/: Is a directory) in the cmd.
+3. Once you are on the Desktop you are gonna wanna type in git clone then click the clone or download then copy the https, and paste it then hit enter. (This copies the folders to your desktop).
+4. You wanna open a cmd to run the client jar, by typing in java -jar and draging the dcclient.jar file in and pressing enter.
+5. You wanna open another cmd to run the server jar, by typing java -jar and draging the dcserver.jar file in and pressing enter.
 #### Directions
 ---
 1. You enter in a name for your character.
